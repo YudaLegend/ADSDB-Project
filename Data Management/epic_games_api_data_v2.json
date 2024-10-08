@@ -1,0 +1,2866 @@
+{
+    "2": {
+        "data": {
+            "Catalog": {
+                "searchStore": {
+                    "elements": [
+                        {
+                            "title": "3 Chests",
+                            "id": "190237b4494844c9ac81492287506674",
+                            "namespace": "7e508f543b05465abe3a935960eb70ac",
+                            "description": "3 Gold Chests (Event/Champion/Patron)",
+                            "effectiveDate": "2021-02-16T17:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+                                "name": "Codename Entertainment"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "banedlc006",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "9547"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "0ecb0ea02c4c4eb482c5567a8dff2456",
+                                    "namespace": "7e508f543b05465abe3a935960eb70ac"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "publisherName",
+                                    "value": "[]"
+                                },
+                                {
+                                    "key": "developerName",
+                                    "value": "[]"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 599,
+                                    "originalPrice": 599,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$5.99",
+                                        "discountPrice": "$5.99",
+                                        "intermediatePrice": "$5.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3 Gold Weekly Party Chests",
+                            "id": "84e12d738eac4bd6828447186e7271b3",
+                            "namespace": "7e508f543b05465abe3a935960eb70ac",
+                            "description": "3 Gold Weekly Party Chests",
+                            "effectiveDate": "2022-08-08T19:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2_1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+                                "name": "Codename Entertainment"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "3goldweeklypartychests",
+                            "url": null,
+                            "tags": [],
+                            "items": [
+                                {
+                                    "id": "d7ba86c18815405da897a96bd6621e49",
+                                    "namespace": "7e508f543b05465abe3a935960eb70ac"
+                                }
+                            ],
+                            "customAttributes": [],
+                            "categories": [
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 599,
+                                    "originalPrice": 599,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$5.99",
+                                        "discountPrice": "$5.99",
+                                        "intermediatePrice": "$5.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3 Minutes to Midnight",
+                            "id": "943aa5fc0e84448982db79c7c8aef8fc",
+                            "namespace": "98c3a59780714527a356c7c242690eaa",
+                            "description": "A comedy adventure with a sprawling story and colorful cast. Betty can\u2019t remember who she is, but she has bigger worries\u2014like a doomsday plot threatening to wipe out the human race. Join Betty to crack the conspiracy that starts with a bang and ends at 3 Minutes to Midnight.",
+                            "effectiveDate": "2099-01-01T00:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/spt-assets/667c480e8d0a41dc87b1fcdd8d491dc5/3-minutes-to-midnight-1j7ml.png"
+                                },
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/spt-assets/667c480e8d0a41dc87b1fcdd8d491dc5/3-minutes-to-midnight-4k58r.jpg"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/spt-assets/667c480e8d0a41dc87b1fcdd8d491dc5/3-minutes-to-midnight-4k58r.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-pddw8ej64qpy6829tsqcdbm94cqvqa",
+                                "name": "SEETECH HITECH SL"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "fdf750393b3e4755952e6d151b887165",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "1298"
+                                },
+                                {
+                                    "id": "21894"
+                                },
+                                {
+                                    "id": "22776"
+                                },
+                                {
+                                    "id": "1370"
+                                },
+                                {
+                                    "id": "9547"
+                                },
+                                {
+                                    "id": "1116"
+                                },
+                                {
+                                    "id": "1117"
+                                },
+                                {
+                                    "id": "9549"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "eb5bc0c114804162b25a7bf3346f7f01",
+                                    "namespace": "98c3a59780714527a356c7c242690eaa"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "autoGeneratedPrice",
+                                    "value": "false"
+                                },
+                                {
+                                    "key": "isManuallySetViewableDate",
+                                    "value": "true"
+                                },
+                                {
+                                    "key": "isPromotionalContentUsed",
+                                    "value": "null"
+                                },
+                                {
+                                    "key": "isManuallySetPCReleaseDate",
+                                    "value": "true"
+                                },
+                                {
+                                    "key": "isBlockchainUsed",
+                                    "value": "false"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games/edition/base"
+                                },
+                                {
+                                    "path": "games/edition"
+                                },
+                                {
+                                    "path": "games"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 2499,
+                                    "originalPrice": 2499,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$24.99",
+                                        "discountPrice": "$24.99",
+                                        "intermediatePrice": "$24.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3 Modron Circuit Chests",
+                            "id": "a167e2203fa642b98d2d23319e8b1b7d",
+                            "namespace": "7e508f543b05465abe3a935960eb70ac",
+                            "description": "3 Modron Circuit Chests (not Event chests)",
+                            "effectiveDate": "2021-02-16T17:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+                                "name": "Codename Entertainment"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "banedlc006-06",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "9547"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "495aaf85a6bd4881a956998c4998be51",
+                                    "namespace": "7e508f543b05465abe3a935960eb70ac"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "publisherName",
+                                    "value": "[]"
+                                },
+                                {
+                                    "key": "developerName",
+                                    "value": "[]"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 599,
+                                    "originalPrice": 599,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$5.99",
+                                        "discountPrice": "$5.99",
+                                        "intermediatePrice": "$5.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3 out of 10, EP 1: Welcome To Shovelworks",
+                            "id": "eb38399025864ffb88a7e027d02502a8",
+                            "namespace": "d9090f3f39f64d5bb827c6e44b95cff0",
+                            "description": "Midge joins Shovelworks Studios as a new animator, but not all is as it seems at the studio.",
+                            "effectiveDate": "2020-08-06T15:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/S1.ep1.portrait-1200x1600-6bbde455e06bbde03ece387f1bd4b068.jpg"
+                                },
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/S1.ep1.landscape-2560x1440-f49d806d1dcfa01e2d495edc89079516.jpg"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/S1.ep1.portrait-1200x1600-6bbde455e06bbde03ece387f1bd4b068.jpg"
+                                },
+                                {
+                                    "type": "CodeRedemption_340x440",
+                                    "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/S1.ep1.portrait-1200x1600-6bbde455e06bbde03ece387f1bd4b068.jpg"
+                                },
+                                {
+                                    "type": "DieselStoreFrontTall",
+                                    "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/S1.ep1.portrait-1200x1600-6bbde455e06bbde03ece387f1bd4b068.jpg"
+                                },
+                                {
+                                    "type": "DieselStoreFrontWide",
+                                    "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/S1.ep1.landscape-2560x1440-f49d806d1dcfa01e2d495edc89079516.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+                                "name": "Terrible Posture Games, Inc."
+                            },
+                            "productSlug": "3-out-of-10-ep-1",
+                            "urlSlug": "floundergeneralaudience",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "1216"
+                                },
+                                {
+                                    "id": "1141"
+                                },
+                                {
+                                    "id": "1370"
+                                },
+                                {
+                                    "id": "9547"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "e9b1ff9048fb4424806353fa863c0ca4",
+                                    "namespace": "d9090f3f39f64d5bb827c6e44b95cff0"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "com.epicgames.app.blacklist",
+                                    "value": "[]"
+                                },
+                                {
+                                    "key": "publisherName",
+                                    "value": "Terrible Posture Games, Inc."
+                                },
+                                {
+                                    "key": "com.epicgames.app.productSlug",
+                                    "value": "3-out-of-10-ep-1"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "games/edition"
+                                },
+                                {
+                                    "path": "games/edition/base"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 0,
+                                    "originalPrice": 0,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "0",
+                                        "discountPrice": "0",
+                                        "intermediatePrice": "0"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3 out of 10, EP 2: Foundation 101",
+                            "id": "f2046150a9d24931a83bdb64ecc08f14",
+                            "namespace": "9c5bbf5fa33d410b955b857c58f41c5c",
+                            "description": "The team goes back to college as a new shipment of interns is delivered to the studio and Midge has had enough.",
+                            "effectiveDate": "2020-08-13T15:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/S1.ep2.landscape-2560x1440-765f39608c05ccedd299b44e8dedd6be.jpg"
+                                },
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/S1.ep2.portrait-1200x1600-5954bfa47a9d134167ca0a721056f890.jpg"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/S1.ep2.portrait-1200x1600-5954bfa47a9d134167ca0a721056f890.jpg"
+                                },
+                                {
+                                    "type": "CodeRedemption_340x440",
+                                    "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/S1.ep2.portrait-1200x1600-5954bfa47a9d134167ca0a721056f890.jpg"
+                                },
+                                {
+                                    "type": "DieselStoreFrontTall",
+                                    "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/S1.ep2.portrait-1200x1600-5954bfa47a9d134167ca0a721056f890.jpg"
+                                },
+                                {
+                                    "type": "DieselStoreFrontWide",
+                                    "url": "https://cdn1.epicgames.com/9c5bbf5fa33d410b955b857c58f41c5c/offer/S1.ep2.landscape-2560x1440-765f39608c05ccedd299b44e8dedd6be.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+                                "name": "Terrible Posture Games, Inc."
+                            },
+                            "productSlug": "3-out-of-10-ep-2",
+                            "urlSlug": "generalaudience",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "1381"
+                                },
+                                {
+                                    "id": "1370"
+                                },
+                                {
+                                    "id": "9547"
+                                },
+                                {
+                                    "id": "1116"
+                                },
+                                {
+                                    "id": "1117"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "a5d9552b0aeb4e7597656801fce759ad",
+                                    "namespace": "9c5bbf5fa33d410b955b857c58f41c5c"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "com.epicgames.app.blacklist",
+                                    "value": "[]"
+                                },
+                                {
+                                    "key": "developerName",
+                                    "value": "Terrible Posture Games, Inc."
+                                },
+                                {
+                                    "key": "com.epicgames.app.productSlug",
+                                    "value": "3-out-of-10-ep-2"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "games/edition"
+                                },
+                                {
+                                    "path": "games/edition/base"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 0,
+                                    "originalPrice": 0,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "0",
+                                        "discountPrice": "0",
+                                        "intermediatePrice": "0"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3 out of 10, EP 3: Pivot Like A Champion",
+                            "id": "4537d64c0c5748ae901163cfb53573eb",
+                            "namespace": "f4bbbc20a6b74295ac82b7c258739bff",
+                            "description": "The team settles a question the way only game developers can; with an office wide Battle Royale.",
+                            "effectiveDate": "2020-08-20T15:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/S1.Ep3.portrait-1200x1600-49c1956fb62218b50a78ed3a901091a8.jpg"
+                                },
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/S1.ep3.landscape-2560x1440-fd37ccfe88579a5c789326f28753a198.jpg"
+                                },
+                                {
+                                    "type": "DieselStoreFrontWide",
+                                    "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/S1.ep3.landscape-2560x1440-fd37ccfe88579a5c789326f28753a198.jpg"
+                                },
+                                {
+                                    "type": "DieselStoreFrontTall",
+                                    "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/S1.Ep3.portrait-1200x1600-49c1956fb62218b50a78ed3a901091a8.jpg"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/S1.Ep3.portrait-1200x1600-49c1956fb62218b50a78ed3a901091a8.jpg"
+                                },
+                                {
+                                    "type": "CodeRedemption_340x440",
+                                    "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/S1.Ep3.portrait-1200x1600-49c1956fb62218b50a78ed3a901091a8.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+                                "name": "Terrible Posture Games, Inc."
+                            },
+                            "productSlug": "3-out-of-10-ep3/home",
+                            "urlSlug": "3-out-of-10-ep3",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "1381"
+                                },
+                                {
+                                    "id": "9547"
+                                },
+                                {
+                                    "id": "1116"
+                                },
+                                {
+                                    "id": "1117"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "b70165fc37bb447d8f1d7449cdded91f",
+                                    "namespace": "f4bbbc20a6b74295ac82b7c258739bff"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "com.epicgames.app.blacklist",
+                                    "value": "[]"
+                                },
+                                {
+                                    "key": "developerName",
+                                    "value": "Terrible Posture Games, Inc"
+                                },
+                                {
+                                    "key": "com.epicgames.app.productSlug",
+                                    "value": "3-out-of-10-ep3/home"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "games/edition/base"
+                                },
+                                {
+                                    "path": "games/edition"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 0,
+                                    "originalPrice": 0,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "0",
+                                        "discountPrice": "0",
+                                        "intermediatePrice": "0"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3 out of 10, EP 4: Thank You For Being An Asset",
+                            "id": "00ae234a8e4a4a80b6b3c124ae738372",
+                            "namespace": "d6a3cae34c5d4562832610b5b8664576",
+                            "description": "Big investors are coming to the studio. Can Ben and the team survive Francine's grand plan to impress them?",
+                            "effectiveDate": "2020-08-27T15:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/S1.ep4.portrait-1200x1600-1fbe282ac882fdd909782b6820894fbf.jpg"
+                                },
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/S1.ep4.landscape-2560x1440-a51a59bdc5383a7f1dd97705b1ddae50.jpg"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/S1.ep4.portrait-1200x1600-1fbe282ac882fdd909782b6820894fbf.jpg"
+                                },
+                                {
+                                    "type": "CodeRedemption_340x440",
+                                    "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/S1.ep4.portrait-1200x1600-1fbe282ac882fdd909782b6820894fbf.jpg"
+                                },
+                                {
+                                    "type": "DieselStoreFrontTall",
+                                    "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/S1.ep4.portrait-1200x1600-1fbe282ac882fdd909782b6820894fbf.jpg"
+                                },
+                                {
+                                    "type": "DieselStoreFrontWide",
+                                    "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/S1.ep4.landscape-2560x1440-a51a59bdc5383a7f1dd97705b1ddae50.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+                                "name": "Terrible Posture Games, Inc."
+                            },
+                            "productSlug": "3-out-of-10-ep-4",
+                            "urlSlug": "generalaudience",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "1381"
+                                },
+                                {
+                                    "id": "9547"
+                                },
+                                {
+                                    "id": "1116"
+                                },
+                                {
+                                    "id": "9549"
+                                },
+                                {
+                                    "id": "1117"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "821516f0ed8448b89b7fe0e1e4628e03",
+                                    "namespace": "d6a3cae34c5d4562832610b5b8664576"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "com.epicgames.app.blacklist",
+                                    "value": "[]"
+                                },
+                                {
+                                    "key": "developerName",
+                                    "value": "Terrible Posture Games, Inc."
+                                },
+                                {
+                                    "key": "com.epicgames.app.productSlug",
+                                    "value": "3-out-of-10-ep-4"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "games/edition"
+                                },
+                                {
+                                    "path": "games/edition/base"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 0,
+                                    "originalPrice": 0,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "0",
+                                        "discountPrice": "0",
+                                        "intermediatePrice": "0"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3 out of 10, EP 5: The Rig Is Up!",
+                            "id": "93646f6055c849cc8c1f34f2292f8040",
+                            "namespace": "6a70006d598948bfa6c71ceb334ad635",
+                            "description": "Pylon and Kevin set out on an adventure to fix Pylon's missing... face.",
+                            "effectiveDate": "2020-09-03T15:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/6a70006d598948bfa6c71ceb334ad635/offer/S1.ep5.portrait-1200x1600-fc63fb2b69d0d45eb399cf8860f3f100.jpg"
+                                },
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/6a70006d598948bfa6c71ceb334ad635/offer/S1.ep5.portrait-1200x1600-fc63fb2b69d0d45eb399cf8860f3f100.jpg"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/6a70006d598948bfa6c71ceb334ad635/offer/S1.ep5.portrait-1200x1600-fc63fb2b69d0d45eb399cf8860f3f100.jpg"
+                                },
+                                {
+                                    "type": "CodeRedemption_340x440",
+                                    "url": "https://cdn1.epicgames.com/6a70006d598948bfa6c71ceb334ad635/offer/S1.ep5.portrait-1200x1600-fc63fb2b69d0d45eb399cf8860f3f100.jpg"
+                                },
+                                {
+                                    "type": "DieselStoreFrontTall",
+                                    "url": "https://cdn1.epicgames.com/6a70006d598948bfa6c71ceb334ad635/offer/S1.ep5.portrait-1200x1600-fc63fb2b69d0d45eb399cf8860f3f100.jpg"
+                                },
+                                {
+                                    "type": "DieselStoreFrontWide",
+                                    "url": "https://cdn1.epicgames.com/6a70006d598948bfa6c71ceb334ad635/offer/S1.Ep5.landscape-2560x1440-16b1dcfb1466f750bd0e36a7add11184.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+                                "name": "Terrible Posture Games, Inc."
+                            },
+                            "productSlug": "3-out-of-10-ep-5",
+                            "urlSlug": "empanadageneralaudience",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "1381"
+                                },
+                                {
+                                    "id": "9547"
+                                },
+                                {
+                                    "id": "1116"
+                                },
+                                {
+                                    "id": "9549"
+                                },
+                                {
+                                    "id": "1117"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "70a9d1c7268d478fb68015081cc109b3",
+                                    "namespace": "6a70006d598948bfa6c71ceb334ad635"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "com.epicgames.app.blacklist",
+                                    "value": "[]"
+                                },
+                                {
+                                    "key": "developerName",
+                                    "value": "Terrible Posture Games, Inc."
+                                },
+                                {
+                                    "key": "com.epicgames.app.productSlug",
+                                    "value": "3-out-of-10-ep-5"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "games/edition"
+                                },
+                                {
+                                    "path": "games/edition/base"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 0,
+                                    "originalPrice": 0,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "0",
+                                        "discountPrice": "0",
+                                        "intermediatePrice": "0"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3 out of 10, Season One: Original Soundtrack",
+                            "id": "ef67db2c823944098c1b570ee5d4c731",
+                            "namespace": "d9090f3f39f64d5bb827c6e44b95cff0",
+                            "description": "3 out of 10, Season One: Original Soundtrack",
+                            "effectiveDate": "2020-08-06T15:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/EGS_3outof10SeasonOneOriginalSoundtrack_TerriblePostureGamesInc_DigitalExtras_S1-2560x1440-a6b2f4796587b1cc6c664488fb1170e3.jpg"
+                                },
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/EGS_3outof10SeasonOneOriginalSoundtrack_TerriblePostureGamesInc_DigitalExtras_S2-1200x1600-99c76595defff15a9919d83f7892a72f.jpg"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/EGS_3outof10SeasonOneOriginalSoundtrack_TerriblePostureGamesInc_DigitalExtras_S2-1200x1600-99c76595defff15a9919d83f7892a72f.jpg"
+                                },
+                                {
+                                    "type": "CodeRedemption_340x440",
+                                    "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/EGS_3outof10SeasonOneOriginalSoundtrack_TerriblePostureGamesInc_DigitalExtras_S2-1200x1600-99c76595defff15a9919d83f7892a72f.jpg"
+                                },
+                                {
+                                    "type": "DieselStoreFrontWide",
+                                    "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/EGS_3outof10SeasonOneOriginalSoundtrack_TerriblePostureGamesInc_DigitalExtras_S1-2560x1440-a6b2f4796587b1cc6c664488fb1170e3.jpg"
+                                },
+                                {
+                                    "type": "DieselStoreFrontTall",
+                                    "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/EGS_3outof10SeasonOneOriginalSoundtrack_TerriblePostureGamesInc_DigitalExtras_S2-1200x1600-99c76595defff15a9919d83f7892a72f.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+                                "name": "Terrible Posture Games, Inc."
+                            },
+                            "productSlug": "3-out-of-10-ep-1/soundtrack",
+                            "urlSlug": "floundersoundtrack",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "1321"
+                                },
+                                {
+                                    "id": "1370"
+                                },
+                                {
+                                    "id": "9547"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "78ce5371087c46008ddfd7df4d945830",
+                                    "namespace": "d9090f3f39f64d5bb827c6e44b95cff0"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "com.epicgames.app.blacklist",
+                                    "value": "[]"
+                                },
+                                {
+                                    "key": "publisherName",
+                                    "value": "Terrible Posture Games, Inc."
+                                },
+                                {
+                                    "key": "com.epicgames.app.productSlug",
+                                    "value": "3-out-of-10-ep-1/soundtrack"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "addons"
+                                },
+                                {
+                                    "path": "digitalextras"
+                                },
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "addons/durable"
+                                },
+                                {
+                                    "path": "digitalextras/soundtrack"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 999,
+                                    "originalPrice": 999,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$9.99",
+                                        "discountPrice": "$9.99",
+                                        "intermediatePrice": "$9.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3 out of 10: Season Two",
+                            "id": "9fc33e99abf342138323856854e745ec",
+                            "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
+                            "description": "Caffeinated super-powers, sentient AIs, and rival game studios all stand in the way of Shovelworks studios as they struggle to finally make a game that scores better than \u201c3 out of 10\u201d. Will this be the Season that they finally do it?",
+                            "effectiveDate": "2021-04-08T15:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/offer/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_G1A_00-1920x1080-77430376a4fbbafe73030bae814a2f34.jpg"
+                                },
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/offer/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S2-1200x1600-0526ebb8c316a36e20e97271782bd31d.jpg"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/offer/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S2-1200x1600-0526ebb8c316a36e20e97271782bd31d.jpg"
+                                },
+                                {
+                                    "type": "CodeRedemption_340x440",
+                                    "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/offer/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S2-1200x1600-0526ebb8c316a36e20e97271782bd31d.jpg"
+                                },
+                                {
+                                    "type": "DieselStoreFrontWide",
+                                    "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/offer/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S1-2560x1440-03f957380c64f41b4241cfb591a263ce.jpg"
+                                },
+                                {
+                                    "type": "DieselStoreFrontTall",
+                                    "url": "https://cdn1.epicgames.com/b829cfd910554ad3ad2eb3b314e2b1ef/offer/EGS_3outof10SeasonTwo_TerriblePostureGamesInc_S2-1200x1600-0526ebb8c316a36e20e97271782bd31d.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+                                "name": "Terrible Posture Games, Inc."
+                            },
+                            "productSlug": "3-out-of-10-season-2",
+                            "urlSlug": "mooncakegeneralaudience",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "1370"
+                                },
+                                {
+                                    "id": "9547"
+                                },
+                                {
+                                    "id": "1116"
+                                },
+                                {
+                                    "id": "1117"
+                                },
+                                {
+                                    "id": "9549"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "0a8ad6d224e649bb84fd54c2e08159da",
+                                    "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "com.epicgames.app.blacklist",
+                                    "value": "[]"
+                                },
+                                {
+                                    "key": "publisherName",
+                                    "value": "Terrible Posture Games, Inc."
+                                },
+                                {
+                                    "key": "developerName",
+                                    "value": "Terrible Posture Games, Inc."
+                                },
+                                {
+                                    "key": "com.epicgames.app.productSlug",
+                                    "value": "3-out-of-10-season-2"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games/edition/base"
+                                },
+                                {
+                                    "path": "games/edition"
+                                },
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 0,
+                                    "originalPrice": 0,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "0",
+                                        "discountPrice": "0",
+                                        "intermediatePrice": "0"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "300 Aurum Pack",
+                            "id": "5decd0d0597d454d9ad95bf8e33d58b9",
+                            "namespace": "azalea",
+                            "description": "300 Aurum Pack",
+                            "effectiveDate": "2025-01-13T16:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/azalea/offer/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg"
+                                },
+                                {
+                                    "type": "CodeRedemption_340x440",
+                                    "url": "https://cdn1.epicgames.com/azalea/offer/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+                                "name": "YAGER"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "300-aurum-pack",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "9547"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "7099c7af867d4f379a0e108c6ca2d74f",
+                                    "namespace": "azalea"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "com.epicgames.app.blacklist",
+                                    "value": "KR,CN"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 0,
+                                    "originalPrice": 0,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "0",
+                                        "discountPrice": "0",
+                                        "intermediatePrice": "0"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "300 Donuts",
+                            "id": "35966c9dab4e4ad88b2aac396757bdce",
+                            "namespace": "37baf50c268d47779020d73143bb02b0",
+                            "description": "300 Donuts",
+                            "effectiveDate": "2020-01-07T11:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "featuredMedia",
+                                    "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/2560X1440-2560x1440-f766cb41f82456b617bdc816d1814901.jpg"
+                                },
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/2560X1440-2560x1440-f766cb41f82456b617bdc816d1814901.jpg"
+                                },
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/1200x1600-1200x1600-5cf35c0e90ea6f266577be0d40f48761.jpg"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/1200x1600-1200x1600-5cf35c0e90ea6f266577be0d40f48761.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+                                "name": "Dragonest Game"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "308-donuts",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "29088"
+                                },
+                                {
+                                    "id": "9547"
+                                },
+                                {
+                                    "id": "1115"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "95c39f8f176749088c62141f91f43b96",
+                                    "namespace": "37baf50c268d47779020d73143bb02b0"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "autoGeneratedPrice",
+                                    "value": "false"
+                                },
+                                {
+                                    "key": "isManuallySetViewableDate",
+                                    "value": "true"
+                                },
+                                {
+                                    "key": "publisherName",
+                                    "value": "Dragonest Games"
+                                },
+                                {
+                                    "key": "developerName",
+                                    "value": "Dragonest Games"
+                                },
+                                {
+                                    "key": "isBlockchainUsed",
+                                    "value": "false"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "spthidden/consumable"
+                                },
+                                {
+                                    "path": "spthidden"
+                                },
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 499,
+                                    "originalPrice": 499,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$4.99",
+                                        "discountPrice": "$4.99",
+                                        "intermediatePrice": "$4.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3280 Donuts",
+                            "id": "3b2992e550c542bbb2e880ee163e82e4",
+                            "namespace": "37baf50c268d47779020d73143bb02b0",
+                            "description": "3280 Donuts",
+                            "effectiveDate": "2020-01-07T11:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "featuredMedia",
+                                    "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/2560X1440-2560x1440-f766cb41f82456b617bdc816d1814901.jpg"
+                                },
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/2560X1440-2560x1440-f766cb41f82456b617bdc816d1814901.jpg"
+                                },
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/1200x1600-1200x1600-5cf35c0e90ea6f266577be0d40f48761.jpg"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/1200x1600-1200x1600-5cf35c0e90ea6f266577be0d40f48761.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+                                "name": "Dragonest Game"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "3288-donuts",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "29088"
+                                },
+                                {
+                                    "id": "9547"
+                                },
+                                {
+                                    "id": "1115"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "e01472c78033400a8ebefcfcfd6ee778",
+                                    "namespace": "37baf50c268d47779020d73143bb02b0"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "autoGeneratedPrice",
+                                    "value": "false"
+                                },
+                                {
+                                    "key": "isManuallySetViewableDate",
+                                    "value": "true"
+                                },
+                                {
+                                    "key": "publisherName",
+                                    "value": "Dragonest Games"
+                                },
+                                {
+                                    "key": "developerName",
+                                    "value": "Dragonest Games"
+                                },
+                                {
+                                    "key": "isBlockchainUsed",
+                                    "value": "false"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "spthidden/consumable"
+                                },
+                                {
+                                    "path": "spthidden"
+                                },
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 4999,
+                                    "originalPrice": 4999,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$49.99",
+                                        "discountPrice": "$49.99",
+                                        "intermediatePrice": "$49.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "33 Immortals",
+                            "id": "a08d12938f7449f4a4f9e7c095f89e8e",
+                            "namespace": "059c9bf09df94e09b059eefaea025de1",
+                            "description": "33 Immortals is a co-op action-roguelike for 33 players. Play a damned soul, and rebel against God's final judgment. Pick-up and raid, cooperate to survive hordes of monsters, defeat massive bosses, and face the wrath of God in the ultimate fight for your eternal life.",
+                            "effectiveDate": "2099-01-01T00:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/spt-assets/3209b4dceba04b16bb97558f97c18ea9/33-immortals-1dtto.png"
+                                },
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/spt-assets/3209b4dceba04b16bb97558f97c18ea9/33-immortals-9zmqb.png"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/spt-assets/3209b4dceba04b16bb97558f97c18ea9/33-immortals-9zmqb.png"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-k5nhue2lw5nkaqutyhkwrdl5qjkcd5",
+                                "name": "Thunder Lotus Games"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "ceb51be6b9584708be593ff0866b1ab7",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "1216"
+                                },
+                                {
+                                    "id": "1264"
+                                },
+                                {
+                                    "id": "29088"
+                                },
+                                {
+                                    "id": "1367"
+                                },
+                                {
+                                    "id": "22775"
+                                },
+                                {
+                                    "id": "9547"
+                                },
+                                {
+                                    "id": "9549"
+                                },
+                                {
+                                    "id": "1263"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "376da203d5184056bd9bf1a7698fd3e9",
+                                    "namespace": "059c9bf09df94e09b059eefaea025de1"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "autoGeneratedPrice",
+                                    "value": "false"
+                                },
+                                {
+                                    "key": "isManuallySetViewableDate",
+                                    "value": "true"
+                                },
+                                {
+                                    "key": "isPromotionalContentUsed",
+                                    "value": "null"
+                                },
+                                {
+                                    "key": "isManuallySetPCReleaseDate",
+                                    "value": "false"
+                                },
+                                {
+                                    "key": "isBlockchainUsed",
+                                    "value": "false"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games/edition/base"
+                                },
+                                {
+                                    "path": "games/edition"
+                                },
+                                {
+                                    "path": "games"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 2999,
+                                    "originalPrice": 2999,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$29.99",
+                                        "discountPrice": "$29.99",
+                                        "intermediatePrice": "$29.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3400 Gems",
+                            "id": "b39367297c0d454488b69fe03d1d01bc",
+                            "namespace": "5fdcc0dc67294af3be740f362bd976fd",
+                            "description": "3400 Gems",
+                            "effectiveDate": "2050-08-05T15:00:00.000Z",
+                            "keyImages": [],
+                            "seller": {
+                                "id": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
+                                "name": "Wizards of the Coast"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "3400-gems",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "9547"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "3d04fb3bfe3c43229463185d954afdc0",
+                                    "namespace": "5fdcc0dc67294af3be740f362bd976fd"
+                                }
+                            ],
+                            "customAttributes": [],
+                            "categories": [
+                                {
+                                    "path": "spthidden/consumable"
+                                },
+                                {
+                                    "path": "spthidden"
+                                },
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 1999,
+                                    "originalPrice": 1999,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$19.99",
+                                        "discountPrice": "$19.99",
+                                        "intermediatePrice": "$19.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3500 Crystals",
+                            "id": "afafd749950e4ea9b0c3dea68637c77d",
+                            "namespace": "badb0ee71b474ed591ec43212547cfc8",
+                            "description": "3500 Crystals",
+                            "effectiveDate": "2020-03-24T15:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_Crystals_3500_Paladins_EGS_3500_Crystals_2560x1440-2560x1440-d8c6ea28c573d9406322ce6a09fa3dc6.jpg"
+                                },
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_Crystals_3500_Paladins_EGS_3500_Crystals_860x1148-860x1148-fc055e78acc683fb9b32ab0915ee0e1a.jpg"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_Crystals_3500_Paladins_EGS_3500_Crystals_2560x1440-2560x1440-d8c6ea28c573d9406322ce6a09fa3dc6.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+                                "name": "Hi-Rez Studios"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "3500-crystals",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "9547"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "217221be3e59455bb29fa8c63f1dee33",
+                                    "namespace": "badb0ee71b474ed591ec43212547cfc8"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "com.epicgames.app.blacklist",
+                                    "value": "KR,CN"
+                                },
+                                {
+                                    "key": "publisherName",
+                                    "value": "{}"
+                                },
+                                {
+                                    "key": "developerName",
+                                    "value": "{}"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "spthidden/consumable"
+                                },
+                                {
+                                    "path": "spthidden"
+                                },
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 4999,
+                                    "originalPrice": 4999,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$49.99",
+                                        "discountPrice": "$49.99",
+                                        "intermediatePrice": "$49.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3500 Gems",
+                            "id": "25f1630704f94e30b32eb2bb285a191a",
+                            "namespace": "076207fa2b5c4803a636af606c3c28b7",
+                            "description": "3500 Gems",
+                            "effectiveDate": "2020-04-28T15:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-3500Gems-2560x1440-2560x1440-a7a5f3dd907659a97714fbedfe7c26fc.jpg"
+                                },
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-3500Gems-860x1148-860x1148-96a329ac9f556dc5fcfdefb7bbccf9a2.jpg"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-3500Gems-860x1148-860x1148-96a329ac9f556dc5fcfdefb7bbccf9a2.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+                                "name": "Hi-Rez Studios"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "3500-gems",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "9547"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "52157914f9944ec0a59245baba3b7c46",
+                                    "namespace": "076207fa2b5c4803a636af606c3c28b7"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "com.epicgames.app.blacklist",
+                                    "value": "KR,CN"
+                                },
+                                {
+                                    "key": "publisherName",
+                                    "value": "{}"
+                                },
+                                {
+                                    "key": "developerName",
+                                    "value": "{}"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "spthidden/consumable"
+                                },
+                                {
+                                    "path": "spthidden"
+                                },
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 4999,
+                                    "originalPrice": 4999,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$49.99",
+                                        "discountPrice": "$49.99",
+                                        "intermediatePrice": "$49.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "360 Edition",
+                            "id": "eaf6062e7d0f47869731f9c4d16f8f6d",
+                            "namespace": "83d6990f16444655866b04be562bf589",
+                            "description": "With the Riders Republic\u2122 360 Edition, take your experience to the next level. Enjoy the skate and hoverboard for a unique freeriding experience across the Republic's vibrant open world. Build your legend with original sports (bike,* ski, snowboard, and wingsuit).\n\n*This edition does not include the BMX add-on and other additional content.\n",
+                            "effectiveDate": "2023-08-25T07:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/offer/83d6990f16444655866b04be562bf589/EGST_StorePortrait_1200x1600_1200x1600-afcfb03560e52eb44f2746b791b47016"
+                                },
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/offer/83d6990f16444655866b04be562bf589/EGST_StoreLandscape_2560x1440_2560x1440-105bcb35c6baa257706a62dc439b61aa"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/offer/83d6990f16444655866b04be562bf589/EGST_StorePortrait_1200x1600_1200x1600-afcfb03560e52eb44f2746b791b47016"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+                                "name": "Ubisoft Entertainment"
+                            },
+                            "productSlug": "riders-republic--360-edition",
+                            "urlSlug": "riders-republic--360-edition",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "1216"
+                                },
+                                {
+                                    "id": "1203"
+                                },
+                                {
+                                    "id": "19943"
+                                },
+                                {
+                                    "id": "1370"
+                                },
+                                {
+                                    "id": "1307"
+                                },
+                                {
+                                    "id": "9547"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "7b34c46897e04f79a06a177338406082",
+                                    "namespace": "83d6990f16444655866b04be562bf589"
+                                },
+                                {
+                                    "id": "c1043415b5ee4ee0bd8e192f5e92fa70",
+                                    "namespace": "83d6990f16444655866b04be562bf589"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "com.epicgames.app.productSlug",
+                                    "value": "riders-republic--360-edition"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "games/edition"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 1999,
+                                    "originalPrice": 7999,
+                                    "voucherDiscount": 0,
+                                    "discount": 6000,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$79.99",
+                                        "discountPrice": "$19.99",
+                                        "intermediatePrice": "$19.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": [
+                                            {
+                                                "id": "cf3efd8395aa4fcba29e60e8c83df03a",
+                                                "endDate": "2024-10-17T15:00:00.000Z",
+                                                "discountSetting": {
+                                                    "discountType": "PERCENTAGE"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3D Chess Online",
+                            "id": "fb8eec908db14d91b36c098d06510b34",
+                            "namespace": "f23bd6cc1f594bdb94d3b0cc5d2fbf03",
+                            "description": "3D Chess Online combines the magical world of chess with a modern and three-dimensional experience! Determine your strategy and fight against your opponents worldwide in this simulator equipped with realistic graphics.",
+                            "effectiveDate": "2023-09-26T13:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/spt-assets/b8e3fce5d2f0477281045f56496d9192/3d-chess-online-t567a.png"
+                                },
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/spt-assets/b8e3fce5d2f0477281045f56496d9192/3d-chess-online-z7rh7.png"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/spt-assets/b8e3fce5d2f0477281045f56496d9192/3d-chess-online-z7rh7.png"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-bhbt8vdvsqad3nvby29xmmwltyuex5",
+                                "name": "Inspector Studios"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "49228f4bfca040d19910ba3435e37dd9",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "29088"
+                                },
+                                {
+                                    "id": "1393"
+                                },
+                                {
+                                    "id": "1283"
+                                },
+                                {
+                                    "id": "1115"
+                                },
+                                {
+                                    "id": "9547"
+                                },
+                                {
+                                    "id": "1183"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "08ea85caaf85489fa2a5839d75b62e0b",
+                                    "namespace": "f23bd6cc1f594bdb94d3b0cc5d2fbf03"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "autoGeneratedPrice",
+                                    "value": "false"
+                                },
+                                {
+                                    "key": "isManuallySetViewableDate",
+                                    "value": "true"
+                                },
+                                {
+                                    "key": "isManuallySetPCReleaseDate",
+                                    "value": "false"
+                                },
+                                {
+                                    "key": "isBlockchainUsed",
+                                    "value": "false"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games/edition/base"
+                                },
+                                {
+                                    "path": "games/edition"
+                                },
+                                {
+                                    "path": "games"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 99,
+                                    "originalPrice": 99,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$0.99",
+                                        "discountPrice": "$0.99",
+                                        "intermediatePrice": "$0.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3D City: Megapolis",
+                            "id": "d11ec6904d8f4969ab31ad4474ab82a4",
+                            "namespace": "d4cb8e3f85a44788b2ac4e17012bc7c4",
+                            "description": "Create, control, and explore your urban masterpiece in 3D City Megapolis! From towering skyscrapers to bustling streets, unlock endless possibilities and make your mark. Available to download now!",
+                            "effectiveDate": "2024-03-06T11:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/spt-assets/c9285c6cc77f4b3388f54793b4d3bf3a/3d-city-megapolis-1882d.png"
+                                },
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/spt-assets/c9285c6cc77f4b3388f54793b4d3bf3a/3d-city-megapolis-1i2v2.png"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/spt-assets/c9285c6cc77f4b3388f54793b4d3bf3a/3d-city-megapolis-1i2v2.png"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-3kg75rustzr4mrf2wn4y4dtvpfxlhv",
+                                "name": "3D Studio"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "f749728138724941bb73bcdf4134b236",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "33639"
+                                },
+                                {
+                                    "id": "1336"
+                                },
+                                {
+                                    "id": "1146"
+                                },
+                                {
+                                    "id": "1370"
+                                },
+                                {
+                                    "id": "1307"
+                                },
+                                {
+                                    "id": "9547"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "5648b4ff8ada43edaa69636cf59372f2",
+                                    "namespace": "d4cb8e3f85a44788b2ac4e17012bc7c4"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "autoGeneratedPrice",
+                                    "value": "false"
+                                },
+                                {
+                                    "key": "isManuallySetViewableDate",
+                                    "value": "true"
+                                },
+                                {
+                                    "key": "isPromotionalContentUsed",
+                                    "value": "true"
+                                },
+                                {
+                                    "key": "isManuallySetPCReleaseDate",
+                                    "value": "false"
+                                },
+                                {
+                                    "key": "isBlockchainUsed",
+                                    "value": "false"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games/edition/base"
+                                },
+                                {
+                                    "path": "games/edition"
+                                },
+                                {
+                                    "path": "games"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 899,
+                                    "originalPrice": 899,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$8.99",
+                                        "discountPrice": "$8.99",
+                                        "intermediatePrice": "$8.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3D City: Metaverse",
+                            "id": "4093d669cfd54bb2b1aee0b6e623e53b",
+                            "namespace": "832915a6cdbc4da1889092021da40df2",
+                            "description": "3DC offers a vibrant urban sandbox, blending Sim City's strategic city-building, GTA 5's open-world exploration, and Assassin's Creed's parkour narratives. Dive in, shape the metropolis, and embark on thrilling missions in a stunning environment.",
+                            "effectiveDate": "2024-01-23T21:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/spt-assets/ecc3d079fae84c089473da1960a1822f/3d-city-w4zn8.png"
+                                },
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/spt-assets/ecc3d079fae84c089473da1960a1822f/3d-city-8a384.png"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/spt-assets/ecc3d079fae84c089473da1960a1822f/3d-city-8a384.png"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-3kg75rustzr4mrf2wn4y4dtvpfxlhv",
+                                "name": "3D Studio"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "6aa5cb83f6294fea8e0738a0e8ff0df3",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "1393"
+                                },
+                                {
+                                    "id": "1336"
+                                },
+                                {
+                                    "id": "1146"
+                                },
+                                {
+                                    "id": "1370"
+                                },
+                                {
+                                    "id": "9547"
+                                },
+                                {
+                                    "id": "21739"
+                                },
+                                {
+                                    "id": "9549"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "b468968378ce4a6ab0c90838c022e075",
+                                    "namespace": "832915a6cdbc4da1889092021da40df2"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "autoGeneratedPrice",
+                                    "value": "false"
+                                },
+                                {
+                                    "key": "isManuallySetViewableDate",
+                                    "value": "true"
+                                },
+                                {
+                                    "key": "isPromotionalContentUsed",
+                                    "value": "null"
+                                },
+                                {
+                                    "key": "isManuallySetPCReleaseDate",
+                                    "value": "false"
+                                },
+                                {
+                                    "key": "isBlockchainUsed",
+                                    "value": "true"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "games/edition"
+                                },
+                                {
+                                    "path": "games/edition/base"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 0,
+                                    "originalPrice": 0,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "0",
+                                        "discountPrice": "0",
+                                        "intermediatePrice": "0"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3D PrintMaster Simulator",
+                            "id": "0664cb6cc7064551ac3f662dec8a3d54",
+                            "namespace": "996ae60e3cd84c7fb374489c1b9a8d88",
+                            "description": "The ultimate 3D printing simulation and management game! Dive into the world of 3D printing technology, where you'll build, customize, and manage your very own 3D printing workshop!",
+                            "effectiveDate": "2023-11-06T12:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/spt-assets/cad2caedfae34fcd9c8f23b47837c67d/3d-printmaster-simulator-18x5p.jpg"
+                                },
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/spt-assets/cad2caedfae34fcd9c8f23b47837c67d/3d-printmaster-simulator-ljduc.jpg"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/spt-assets/cad2caedfae34fcd9c8f23b47837c67d/3d-printmaster-simulator-ljduc.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-84dxc6anmmublsbbaeztj954447kst",
+                                "name": "Midnight Works S.R.L"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "e3ec1276ae2045abb1479398eab335ff",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "1393"
+                                },
+                                {
+                                    "id": "1298"
+                                },
+                                {
+                                    "id": "1370"
+                                },
+                                {
+                                    "id": "9547"
+                                },
+                                {
+                                    "id": "1115"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "4cae5107d7364e25ae4745f06858d23d",
+                                    "namespace": "996ae60e3cd84c7fb374489c1b9a8d88"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "autoGeneratedPrice",
+                                    "value": "false"
+                                },
+                                {
+                                    "key": "isManuallySetViewableDate",
+                                    "value": "true"
+                                },
+                                {
+                                    "key": "isManuallySetPCReleaseDate",
+                                    "value": "false"
+                                },
+                                {
+                                    "key": "isBlockchainUsed",
+                                    "value": "false"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games/edition/base"
+                                },
+                                {
+                                    "path": "games/edition"
+                                },
+                                {
+                                    "path": "games"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 1299,
+                                    "originalPrice": 1299,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$12.99",
+                                        "discountPrice": "$12.99",
+                                        "intermediatePrice": "$12.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "3DMark Solar Bay",
+                            "id": "89eaea4a293a4a90a1d23155b0eebc40",
+                            "namespace": "a3899e1cdcd643009009e119e9b955f7",
+                            "description": "3DMark Solar Bay tests how Windows and Android devices perform when gaming with ray tracing. Results can be compared between platforms. The Solar Bay stress test shows how performance changes over extended gaming sessions. ",
+                            "effectiveDate": "2023-08-14T17:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_S2_1200x1600-2fd94cc6cae2c8963c4e6a40f4e70001"
+                                },
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_S1_2560x1440-cf65523bcf82d581d8306d41d745da14"
+                                },
+                                {
+                                    "type": "ProductLogo",
+                                    "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_IC1_200x80-d5686412d10aa41d0733cd3f4d2fd8e5"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_S2_1200x1600-2fd94cc6cae2c8963c4e6a40f4e70001"
+                                },
+                                {
+                                    "type": "featuredMedia",
+                                    "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_G1A_04_1920x1080-3aa200dae39e62e6242ea5c3b3b64d7a"
+                                },
+                                {
+                                    "type": "featuredMedia",
+                                    "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_G1A_03_1920x1080-3ff6fe4720d485e7c706804ecbdfc37e"
+                                },
+                                {
+                                    "type": "featuredMedia",
+                                    "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_G1A_02_1920x1080-0041bd8be3b702a11c6d11cc1e80dcb1"
+                                },
+                                {
+                                    "type": "featuredMedia",
+                                    "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_G1A_01_1920x1080-7f50a24ea9f48897be9693ea5f95bf6f"
+                                },
+                                {
+                                    "type": "featuredMedia",
+                                    "url": "https://cdn1.epicgames.com/offer/a3899e1cdcd643009009e119e9b955f7/EGS_3DMarkSolarBayBenchmarks_ULSolutions_DLC_G1A_00_1920x1080-1901b051f7bc52918b09d3a4f4db7de2"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-8mezcp6bccb7t8n6k9m3mexen2yh99",
+                                "name": "UL"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "3dmark--solar-bay-benchmarks",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "9547"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "d8ec720ee0cf463b87a19b682ae66b30",
+                                    "namespace": "a3899e1cdcd643009009e119e9b955f7"
+                                }
+                            ],
+                            "customAttributes": [],
+                            "categories": [
+                                {
+                                    "path": "addons"
+                                },
+                                {
+                                    "path": "addons/durable"
+                                },
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 0,
+                                    "originalPrice": 0,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "0",
+                                        "discountPrice": "0",
+                                        "intermediatePrice": "0"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "400 Crystals",
+                            "id": "ec5aab302d0f4ddd9c1b92a13d1203f3",
+                            "namespace": "badb0ee71b474ed591ec43212547cfc8",
+                            "description": "400 Crystals",
+                            "effectiveDate": "2020-03-24T15:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_400Crystals_2560x1440-2560x1440-51d9a88b490c070262d4b7313d098e25.jpg"
+                                },
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_400Crystals_860x1148-860x1148-15799902934091d138b25b7f5217768d.jpg"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_400Crystals_2560x1440-2560x1440-51d9a88b490c070262d4b7313d098e25.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+                                "name": "Hi-Rez Studios"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "400-crystals",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "9547"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "eb577099b8954053992ff40c176f3436",
+                                    "namespace": "badb0ee71b474ed591ec43212547cfc8"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "com.epicgames.app.blacklist",
+                                    "value": "KR,CN"
+                                },
+                                {
+                                    "key": "publisherName",
+                                    "value": "{}"
+                                },
+                                {
+                                    "key": "developerName",
+                                    "value": "{}"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "spthidden/consumable"
+                                },
+                                {
+                                    "path": "spthidden"
+                                },
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 799,
+                                    "originalPrice": 799,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$7.99",
+                                        "discountPrice": "$7.99",
+                                        "intermediatePrice": "$7.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "400 Gems",
+                            "id": "39d2d4334459406e8621f3014cb25218",
+                            "namespace": "076207fa2b5c4803a636af606c3c28b7",
+                            "description": "400 Gems",
+                            "effectiveDate": "2020-04-28T15:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-400Gems-2560x1440-2560x1440-b16b756932b25f60933f8576f7c0fe12.jpg"
+                                },
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-400Gems-860x1148-860x1148-3782888fa5a4fa4f8b912e6d12472124.jpg"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-400Gems-860x1148-860x1148-3782888fa5a4fa4f8b912e6d12472124.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+                                "name": "Hi-Rez Studios"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "400-gems",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "9547"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "5425e93cafe94dcbb80709b2d6877c31",
+                                    "namespace": "076207fa2b5c4803a636af606c3c28b7"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "com.epicgames.app.blacklist",
+                                    "value": "KR,CN"
+                                },
+                                {
+                                    "key": "publisherName",
+                                    "value": "{}"
+                                },
+                                {
+                                    "key": "developerName",
+                                    "value": "{}"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "spthidden/consumable"
+                                },
+                                {
+                                    "path": "spthidden"
+                                },
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 799,
+                                    "originalPrice": 799,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$7.99",
+                                        "discountPrice": "$7.99",
+                                        "intermediatePrice": "$7.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "42 Chests",
+                            "id": "6a1382b2542944d697e310f88c4f687d",
+                            "namespace": "7e508f543b05465abe3a935960eb70ac",
+                            "description": "42 Gold Chests (Event/Champion/Patron)",
+                            "effectiveDate": "2021-02-16T17:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+                                "name": "Codename Entertainment"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "banedlc001-02",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "9547"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "469486fb64d44cf689f1c70791845b1a",
+                                    "namespace": "7e508f543b05465abe3a935960eb70ac"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "publisherName",
+                                    "value": "[]"
+                                },
+                                {
+                                    "key": "developerName",
+                                    "value": "[]"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 5499,
+                                    "originalPrice": 5499,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$54.99",
+                                        "discountPrice": "$54.99",
+                                        "intermediatePrice": "$54.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "42 Chests",
+                            "id": "53dad846f0a0494c8d75bad8d62da6cc",
+                            "namespace": "7e508f543b05465abe3a935960eb70ac",
+                            "description": "42 Gold Chests",
+                            "effectiveDate": "2021-02-16T17:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+                                "name": "Codename Entertainment"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "banedlc004",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "9547"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "e1254699a0554e729692b8e7f438da3d",
+                                    "namespace": "7e508f543b05465abe3a935960eb70ac"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "publisherName",
+                                    "value": "[]"
+                                },
+                                {
+                                    "key": "developerName",
+                                    "value": "[]"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 5499,
+                                    "originalPrice": 5499,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$54.99",
+                                        "discountPrice": "$54.99",
+                                        "intermediatePrice": "$54.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "42 Modron Circuit Chests",
+                            "id": "857ca5a58dc14f40a1fe5ed945693434",
+                            "namespace": "7e508f543b05465abe3a935960eb70ac",
+                            "description": "42 Modron Circuit Chests (not Event chests)",
+                            "effectiveDate": "2021-02-16T17:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/7e508f543b05465abe3a935960eb70ac/offer/EGS_IdleChampionsoftheForgottenRealms_CodenameEntertainment_S2-1200x1600-c67f1998f4ed6ba79d9e5e71cfb30b23.jpg"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-3kpjwtwqwfl2p9wdwvpad7yqz4kt6c",
+                                "name": "Codename Entertainment"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "banedlc006-09",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "9547"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "4bc621d2f71540248610834cf1407d81",
+                                    "namespace": "7e508f543b05465abe3a935960eb70ac"
+                                }
+                            ],
+                            "customAttributes": [
+                                {
+                                    "key": "publisherName",
+                                    "value": "[]"
+                                },
+                                {
+                                    "key": "developerName",
+                                    "value": "[]"
+                                }
+                            ],
+                            "categories": [
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 5499,
+                                    "originalPrice": 5499,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$54.99",
+                                        "discountPrice": "$54.99",
+                                        "intermediatePrice": "$54.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "4600 Gems",
+                            "id": "8738cb96e5984f67be596de276a6556a",
+                            "namespace": "f698d5d792654ac99f47d67e93916bef",
+                            "description": "4600 Gems",
+                            "effectiveDate": "2022-02-23T16:00:00.000Z",
+                            "keyImages": [
+                                {
+                                    "type": "CodeRedemption_340x440",
+                                    "url": "https://cdn1.epicgames.com/offer/f698d5d792654ac99f47d67e93916bef/4600Gems_portrait_1200x1600-c13f5c1a8ef29f54ead3784ae32303f8"
+                                },
+                                {
+                                    "type": "OfferImageTall",
+                                    "url": "https://cdn1.epicgames.com/offer/f698d5d792654ac99f47d67e93916bef/4600Gems_portrait_1200x1600-c13f5c1a8ef29f54ead3784ae32303f8"
+                                },
+                                {
+                                    "type": "OfferImageWide",
+                                    "url": "https://cdn1.epicgames.com/offer/f698d5d792654ac99f47d67e93916bef/4600Gems_landscape_2560x1440-35a74b74553de2176bed26f0c203b83c"
+                                },
+                                {
+                                    "type": "Thumbnail",
+                                    "url": "https://cdn1.epicgames.com/offer/f698d5d792654ac99f47d67e93916bef/4600Gems_portrait_1200x1600-c13f5c1a8ef29f54ead3784ae32303f8"
+                                }
+                            ],
+                            "seller": {
+                                "id": "o-z69v89gad8w2prqetqc35tegga56sx",
+                                "name": "Playwing LTD"
+                            },
+                            "productSlug": null,
+                            "urlSlug": "century-age-of-ashes--4600-gems",
+                            "url": null,
+                            "tags": [
+                                {
+                                    "id": "9547"
+                                }
+                            ],
+                            "items": [
+                                {
+                                    "id": "b1d553f9bad944b1a865586ffe15ab74",
+                                    "namespace": "f698d5d792654ac99f47d67e93916bef"
+                                }
+                            ],
+                            "customAttributes": [],
+                            "categories": [
+                                {
+                                    "path": "spthidden/consumable"
+                                },
+                                {
+                                    "path": "spthidden"
+                                },
+                                {
+                                    "path": "games"
+                                },
+                                {
+                                    "path": "applications"
+                                }
+                            ],
+                            "price": {
+                                "totalPrice": {
+                                    "discountPrice": 3999,
+                                    "originalPrice": 3999,
+                                    "voucherDiscount": 0,
+                                    "discount": 0,
+                                    "currencyCode": "USD",
+                                    "currencyInfo": {
+                                        "decimals": 2
+                                    },
+                                    "fmtPrice": {
+                                        "originalPrice": "$39.99",
+                                        "discountPrice": "$39.99",
+                                        "intermediatePrice": "$39.99"
+                                    }
+                                },
+                                "lineOffers": [
+                                    {
+                                        "appliedRules": []
+                                    }
+                                ]
+                            }
+                        }
+                    ],
+                    "paging": {
+                        "count": 30,
+                        "total": 7194
+                    }
+                }
+            }
+        },
+        "extensions": {}
+    }
+}
