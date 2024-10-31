@@ -348,10 +348,11 @@ def button2_action():
     secondary_window.geometry("600x500")
 
     label = tk.Label(secondary_window, font=("Arial", 16), text="Checking code quality...")
-    label.pack(pady=10)
+    label.place(relx=0.5, rely=0.05, anchor="center") # Centered at the top of the window
+
 
     secondary_terminal = tk.Text(secondary_window, bg="black", fg="white", font=("Courier", 10), wrap="word")
-    secondary_terminal.place(x=10, y=60, width=580, height=400) 
+    secondary_terminal.place(relx=0.05, rely=0.15, relwidth=0.9, relheight=0.8)  # Fills most of the window
 
     secondary_window.after(500, lambda: doChekCodeQuality(secondary_terminal))
     
@@ -368,17 +369,17 @@ monitor_active = False
 
 
 button1 = tk.Button(root, text="Start Data Organization", command=button1_action, width=20, height=2)
-button1.place(x=10, y=10) 
+button1.place(relx=0.01, rely=0.02, relwidth=0.4, relheight=0.1)
 
 button2 = tk.Button(root, text="Check Code Quality", command=button2_action, width=20, height=2)
-button2.place(x=610, y=10) 
+button2.place(relx=0.59, rely=0.02, relwidth=0.4, relheight=0.1)
 
 # Create a Text widget to simulate the terminal output within the main window
 terminal_text = tk.Text(root, bg="black", fg="white", font=("Courier", 10), wrap="word")
-terminal_text.place(x=10, y=60, width=380, height=400)  
+terminal_text.place(relx=0.01, rely=0.15, relwidth=0.48, relheight=0.8)  
 
 terminal_text2 = tk.Text(root, bg="black", fg="white", font=("Courier", 10), wrap="word")
-terminal_text2.place(x=410, y=60, width=380, height=400)  
+terminal_text2.place(relx=0.51, rely=0.15, relwidth=0.48, relheight=0.8)  
 write_to_terminal("Click the 'Start Data Organization' button to start the data organization process :)")
 
 # Make terminal read-only initially
@@ -386,6 +387,7 @@ terminal_text.config(state=tk.DISABLED)
 
 # Start the main loop
 root.mainloop()
+
 
 
 
