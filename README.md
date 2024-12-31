@@ -112,7 +112,7 @@ The UI.py is an executable interface with two primary functions and correspondin
 
         - Show the plots in a new window for better visualization and interpretation.
 
-    - **Additional Notes:** Hyperparameter tuning, required to identify the best model parameters, may result in longer execution times due to the large number of parameter combinations. Also, closing the plot windows to continue the execution.
+    - **Additional Notes:** Hyperparameter tuning, required to identify the best model parameters, may result in longer execution times due to the large number of parameter combinations (5 minutes approximately). Also, closing the plot windows to continue the execution.
 
     - **Outcome:** Once the execution process is finished. The zone folders are created in the `Data Analysis` folder containing the respective databases and tables. Moreover, trained models are saved in the `Data Analysis/ModelGeneration Zone/Models` folder including models from single train/test set, cross validation sets. Also the best model after performing all the process is saved. Then the `Start Prediction` button becomes enabled.
 
